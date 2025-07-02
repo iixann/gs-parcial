@@ -4,3 +4,4 @@ Procesos de desarrollo:
 3- Implementacion: Programamos las funciones en base a los requisitos definos del diseño.
 4- Verificacion o testing: Probamos el sistema hasta no encontrar fallos para pasar a la ultima fase.
 5- Instalacion y Mantenimiento: Por ultimo entregamos el software al cliente, ofrecemos mantenimiento o futuras correcciones.
+"Parcial Avanzado".
